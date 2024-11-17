@@ -82,7 +82,7 @@ The program is executed successfully
 
 ---------------------------------
 
-## PlayFair Cipher
+# PlayFair Cipher
 Playfair Cipher using with different key values
 
 # AIM:
@@ -120,7 +120,7 @@ To decrypt, use the INVERSE (opposite) of the last 3 rules, and the 1st as-is (d
 
 
 ## PROGRAM:
-# PlayFair Cipher
+## PlayFair Cipher
 ```
 #include <stdio.h>
 #include <string.h>
@@ -270,7 +270,7 @@ The program is executed successfully
 
 ---------------------------
 
-## Hill Cipher
+# Hill Cipher
 Hill Cipher using with different key values
 
 # AIM:
@@ -297,7 +297,7 @@ The cipher can, be adapted to an alphabet with any number of letters. All arithm
 
 
 ## PROGRAM:
-# Hill Cipher
+## Hill Cipher
 ```#include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -408,7 +408,7 @@ The Vigenere cipher is a method of encrypting alphabetic text by using a series 
 
 
 ## PROGRAM:
-# Vigenere Cipher
+## Vigenere Cipher
 ```
 #include <stdio.h>
 #include <string.h>
@@ -488,7 +488,7 @@ The program is executed successfully
 
 -----------------------------------------------------------------------
 
-## Rail Fence Cipher
+# Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
 # AIM:
@@ -512,7 +512,7 @@ ALGORITHM DESCRIPTION:
 In the rail fence cipher, the plaintext is written downwards and diagonally on successive "rails" of an imaginary fence, then moving up when we reach the bottom rail. When we reach the top rail, the message is written downwards again until the whole plaintext is written out. The message is then read off in rows.
 
 ## PROGRAM:
-# Rail Fence Cipher
+## Rail Fence Cipher
 ```
 #include <stdio.h>
 #include <string.h>
