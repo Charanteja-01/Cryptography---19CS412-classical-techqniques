@@ -71,7 +71,10 @@ caesarDecrypt(message, key); printf("Decrypted Message: %s", message); return 0;
 ## OUTPUT:
 OUTPUT:
 Simulating Caesar Cipher
+
+
 ![image](https://github.com/user-attachments/assets/74bec787-3181-4f23-ba4d-61b2e6211214)
+
 
 
 ## RESULT:
@@ -255,7 +258,10 @@ int main() {
 ```
 ## OUTPUT:
 Output:
+
+
 ![image](https://github.com/user-attachments/assets/7b8fd1e9-0012-460a-9220-629608a1cef6)
+
 
 
 ## RESULT:
@@ -365,7 +371,11 @@ int main() {
 ## OUTPUT:
 OUTPUT:
 Simulating Hill Cipher
+
+
 ![image](https://github.com/user-attachments/assets/bf338fe3-af4f-4ccc-b270-510aaf3f5292)
+
+
 
 ## RESULT:
 The program is executed successfully
@@ -464,7 +474,12 @@ int main() {
 ## OUTPUT:
 OUTPUT :
 Simulating Vigenere Cipher
+
+
+
+
 ![image](https://github.com/user-attachments/assets/78b05ecf-b9b6-4cf1-8be8-caf9917d923b)
+
 
 
 
@@ -577,7 +592,11 @@ int main() {
 ## OUTPUT:
 OUTPUT:
 
+
+
 ![image](https://github.com/user-attachments/assets/9c40b636-99ad-491c-9f1c-0a1034352ed7)
+
+
 
 
 ## RESULT:
